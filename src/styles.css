@@ -1,0 +1,35 @@
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.add-player {
+  margin-bottom: 20px;
+}
+
+.add-player input {
+  padding: 8px;
+  margin-right: 10px;
+}
+
+.add-player button {
+  padding: 8px 16px;
+}
+
+.player-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.player-list li {
+  margin: 10px 0;
+}
+
+.player-list button {
+  margin-left: 10px;
+}
+
+.remove-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+}
